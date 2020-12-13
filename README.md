@@ -16,5 +16,5 @@
 
 8. Open Google Drive app on phone and add zip file there
 
-
+![Screenshot](datasetrecorder.jpg)
 
